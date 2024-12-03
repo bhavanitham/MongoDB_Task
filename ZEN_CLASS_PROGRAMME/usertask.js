@@ -1,0 +1,36 @@
+[{
+    "user_name":"Ravi",
+    "attendance":"Present",
+    "date":ISODate("2020-10-14"),
+    "task_submission":"Passed"
+},
+{
+    "user_name":"Malar",
+    "attendance":"Present",
+    "date":ISODate("2020-10-17"),
+    "task_submission":"Passed"
+},
+{
+    "user_name":"Venthan",
+    "attendance":"present",
+    "date":ISODate("2020-10-19"),
+    "task_submission":"Failed"
+},
+{
+    "user_name":"Arun",
+    "attendance":"absent",
+    "date":ISODate("2020-11-03"),
+    "task_submission":"passed"
+},
+{
+    "user_name":"Sanjay",
+    "attendance":"present",
+    "date":ISODate("2020-11-08"),
+    "task_submission":"failed"
+},
+{
+    "user_name":"Shinie",
+    "attendance":"present",
+    "date":ISODate("2020-11-20"),
+    "task_submission":"passed"
+}]
